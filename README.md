@@ -18,4 +18,9 @@
 ### Screenshots of my work:
 
 ![Dashboard](https://github.com/Tarun2903/Login2explore/blob/main/json.png)
+### This is the dashboard of the database I worked with
+[Storeddata1](https://github.com/Tarun2903/Login2explore/blob/main/json1.png)
 
+### This the data stored in the database when I used to access database and manipulate database using Talend API Tester
+![Storeddata2](https://github.com/Tarun2903/Login2explore/blob/main/json2.png)
+### This the data stored in the database when I linked my project with JsonDm
