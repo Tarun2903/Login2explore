@@ -16,11 +16,11 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots of my work:
-
-![Dashboard](https://github.com/Tarun2903/Login2explore/blob/main/json.png)
 ### This is the dashboard of the database I worked with
-[Storeddata1](https://github.com/Tarun2903/Login2explore/blob/main/json1.png)
-
+![Dashboard](https://github.com/Tarun2903/Login2explore/blob/main/json.png)
 ### This the data stored in the database when I used to access database and manipulate database using Talend API Tester
-![Storeddata2](https://github.com/Tarun2903/Login2explore/blob/main/json2.png)
+![Storeddata1](https://github.com/Tarun2903/Login2explore/blob/main/json1.png)
+
 ### This the data stored in the database when I linked my project with JsonDm
+![Storeddata2](https://github.com/Tarun2903/Login2explore/blob/main/json2.png)
+
