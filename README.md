@@ -18,4 +18,4 @@
 ### Screenshots of my work:
 
 ![Dashboard]
-(https://github.com/Tarun2903/Login2explore/blob/main/json.png)
+(https://github.com/Tarun2903/Login2explore/blob/main/json.PNG)
